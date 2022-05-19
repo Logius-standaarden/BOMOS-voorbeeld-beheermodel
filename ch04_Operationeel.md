@@ -11,7 +11,7 @@
     xxx Community en/of de Technische Architectuur Groep en/of als lid
     van de Adviesraad of als lid van het OBDO.
 
-    1.  ## Wensen en Eisen
+## Wensen en Eisen
 
 > RFC's kunnen binnen komen via verschillende kanalen:
 
@@ -71,66 +71,12 @@
 > standaard kan hebben:
 
 
-+-----------------+------------------------+------------------------+
-| > **Afkorting** | > **Status van de      | > **Beschrijving van   |
-|                 | > standaard**          | > de status**          |
-+=================+========================+========================+
-| > IO            | > In Ontwikkeling      | > Een nieuwe release   |
-|                 |                        | > van de standaard is  |
-|                 |                        | > \"In Ontwikkeling\"  |
-|                 |                        | > wanneer er met       |
-|                 |                        | > medeweten en         |
-|                 |                        | > medewerking van      |
-|                 |                        | > participanten aan    |
-|                 |                        | > gewerkt wordt en     |
-|                 |                        | > wanneer dit          |
-|                 |                        | > onderdeel of deze    |
-|                 |                        | > release nog niet     |
-|                 |                        | > voor de buitenwereld |
-|                 |                        | > is gepubliceerd.     |
-+-----------------+------------------------+------------------------+
-| > IG            | > In Gebruik           | > Als een nieuwe       |
-|                 |                        | > release van de       |
-|                 |                        | > standaard gereed is, |
-|                 |                        | > en is bestendigd     |
-|                 |                        | > door Forum           |
-|                 |                        | > Standaardisatie,     |
-|                 |                        | > stelt het Technisch  |
-|                 |                        | > Overleg de status    |
-|                 |                        | > \'In Gebruik\' vast. |
-|                 |                        | > Door deze            |
-|                 |                        | > vaststelling worden  |
-|                 |                        | > gebruikers en        |
-|                 |                        | > ICT-leveranciers     |
-|                 |                        | > opgeroepen deze      |
-|                 |                        | > nieuwe release op te |
-|                 |                        | > nemen in software en |
-|                 |                        | > in gebruik te nemen. |
-+-----------------+------------------------+------------------------+
-| > EO            | > Einde Ondersteuning  | > De standaardversie   |
-|                 |                        | > met de status        |
-|                 |                        | > \"Einde              |
-|                 |                        | > ondersteuning\"      |
-|                 |                        | > wordt niet meer      |
-|                 |                        | > ondersteund door de  |
-|                 |                        | > beheerder. De kennis |
-|                 |                        | > en informatie voor   |
-|                 |                        | > vragen en support is |
-|                 |                        | > bij de beheerder     |
-|                 |                        | > niet langer          |
-|                 |                        | > beschikbaar.         |
-+-----------------+------------------------+------------------------+
-| > TG            | > Teruggetrokken       | > De standaard krijgt  |
-|                 |                        | > de status            |
-|                 |                        | > \"Teruggetrokken\"   |
-|                 |                        | > indien een release   |
-|                 |                        | > van de standaard     |
-|                 |                        | > niet bruikbaar       |
-|                 |                        | > blijkt (bijv.        |
-|                 |                        | > vanwege              |
-|                 |                        | > im                   |
-|                 |                        | plementatieproblemen). |
-+-----------------+------------------------+------------------------+
+| **Afkorting** | **Status van de standaard** | **Beschrijving van de status** |
+|      ---      |              ---            |               ---              |
+| IO | In Ontwikkeling | Een nieuwe release van de standaard is "In Ontwikkeling" wanneer er met medeweten en medewerking van participanten aan gewerkt wordt en wanneer dit onderdeel of deze release nog niet voor de buitenwereld is gepubliceerd. |
+| IG | In Gebruik      | Als een nieuwe release van de standaard gereed is, en is bestendigd door Forum Standaardisatie, stelt het Technisch Overleg de status 'In Gebruik' vast. Door deze vaststelling worden gebruikers en ICT-leveranciers opgeroepen deze nieuwe release op te nemen in software en in gebruik te nemen. |
+| EO | Einde Ondersteuning | De standaardversie met de status "Einde ondersteuning" wordt niet meer ondersteund door de beheerder. De kennis en informatie voor vragen en support is bij de beheerder niet langer beschikbaar. |
+| TG | Teruggetrokken   | De standaard krijgt de status "Teruggetrokken" indien een release van de standaard niet bruikbaar blijkt (bijv. vanwege implementatieproblemen). |
 
 ## Documentatie
 
