@@ -108,34 +108,13 @@ stappen:
 >
 > In tabelvorm:
 
-+----------------+----------------+----------------+----------------+
-| > **Gremium**  | > **Accent**   | > **Rol        | > *            |
-|                |                | >              | *Ondersteuning |
-|                |                |  participant** | > door         |
-|                |                |                | > beheerder    |
-|                |                |                | > (Logius)**   |
-+================+================+================+================+
-| > **Xxx        | > Inhoud --    | > Samen met    | 1.  Informatie |
-| > Community**  | > delen        | > alle leden   |     m.b.t.     |
-| >              |                | > van de       |                |
-| > (omvang      |                | > Interesse    |  specificaties |
-| > onbeperkt)   |                | > Groep (IG):  |     en beheer  |
-|                |                |                |     open delen |
-|                |                | 1.  Volgen van |     met        |
-|                |                |     o          |     community. |
-|                |                | ntwikkelingen. |                |
-|                |                |                | 2.  Deelnemen  |
-|                |                | 2.  Leveren    |     aan        |
-|                |                |     > van      |     stuurgroep |
-|                |                |     > input    |     en         |
-|                |                |     > voor de  |                |
-|                |                |     > do       |    werkgroepen |
-|                |                | orontwikkeling |     van        |
-|                |                |     > van de   |                |
-|                |                |                | >              |
-|                |                |   > standaard. | Kennisplatform |
-|                |                |                | > xxx          |
-+----------------+----------------+----------------+----------------+
+| **Gremium**  | **Accent**   | **Rol participant**  | **Ondersteuning door beheerder (Logius)** |
+|     ---      |    ----      |         ---          |                   ---                     |
+| **XXX Community** (omvang beperkt) | Inhoud -- delen    | Samen met alle leden van de Interesse Groep (IG):  | 1.  Informatie m.b.t. specificaties en beheer open delen met community. |
+|                                    |                    | 1. Volgen van ontwikkelingen       | 2.  Deelnemen aan stuurgroepen en werkgroepen. |
+|                                    |                    | 2. Leveren van input voor de doporontwikkeling van de standaard.    |  |
+|     ---      |    ----      |         ---          |                   ---                     |
+
 
 
 +----------------+----------------+----------------+----------------+
