@@ -24,23 +24,17 @@
 > Forum
 > Standaardisatie</span>](https://www.forumstandaardisatie.nl/basisinformatie).
 
-De toetsingsprocedure voor opname van een standaard op pas toe of leg
-uit’-lijst bestaat uit de volgende
+De toetsingsprocedure voor opname van een standaard op _pas toe of leg
+uit_ lijst bestaat uit de volgende
 
 stappen:
 
-1\. Aanmelding
-
-2\. Intake
-
-> 3\. Expertonderzoek
-
-4\. Openbare consultatie
-
-5\. Advisering door het Forum Standaardisatie
-
-6\. Vaststelling door het Overheidsbreed Beleidsoverleg Digitale
-Overheid
+1. Aanmelding
+2. Intake
+3. Expertonderzoek
+4. Openbare consultatie
+5. Advisering door het Forum Standaardisatie
+6. Vaststelling door het Overheidsbreed Beleidsoverleg Digitale Overheid
 
 > Deze criteria staan op: [Toetsingsprocedure en criteria voor lijsten
 > met open standaarden
@@ -53,9 +47,9 @@ Overheid
 > staan op de 'Pas toe of leg uit'-lijst van het Forum of zijn verplicht
 > via wetgeving.
 
-2.  ## Governance
+## Governance
 
-    1.  ### Governancestructuur
+### Governancestructuur
 
 > Bij het beheer van een open standaard hoort een open governance en een
 > open procedure voor belanghebbenden om te kunnen participeren in het
@@ -114,146 +108,143 @@ Overheid
 >
 > In tabelvorm:
 
-<table>
-<thead>
-<tr class="header">
-<th><blockquote>
-<p><strong>Gremium</strong></p>
-</blockquote></th>
-<th><blockquote>
-<p><strong>Accent</strong></p>
-</blockquote></th>
-<th><blockquote>
-<p><strong>Rol participant</strong></p>
-</blockquote></th>
-<th><blockquote>
-<p><strong>Ondersteuning door beheerder (Logius)</strong></p>
-</blockquote></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><blockquote>
-<p><strong>Xxx Community</strong></p>
-<p>(omvang onbeperkt)</p>
-</blockquote></td>
-<td><blockquote>
-<p>Inhoud – delen</p>
-</blockquote></td>
-<td><blockquote>
-<p>Samen met alle leden van de Interesse Groep (IG):</p>
-</blockquote>
-<ol type="1">
-<li><p>Volgen van ontwikkelingen.</p></li>
-<li><blockquote>
-<p>Leveren van input voor de doorontwikkeling van de standaard.</p>
-</blockquote></li>
-</ol></td>
-<td><ol type="1">
-<li><p>Informatie m.b.t. specificaties en beheer open delen met community.</p></li>
-<li><p>Deelnemen aan stuurgroep en werkgroepen van</p></li>
-</ol>
-<blockquote>
-<p>Kennisplatform xxx</p>
-</blockquote></td>
-</tr>
-</tbody>
-</table>
++----------------+----------------+----------------+----------------+
+| > **Gremium**  | > **Accent**   | > **Rol        | > *            |
+|                |                | >              | *Ondersteuning |
+|                |                |  participant** | > door         |
+|                |                |                | > beheerder    |
+|                |                |                | > (Logius)**   |
++================+================+================+================+
+| > **Xxx        | > Inhoud --    | > Samen met    | 1.  Informatie |
+| > Community**  | > delen        | > alle leden   |     m.b.t.     |
+| >              |                | > van de       |                |
+| > (omvang      |                | > Interesse    |  specificaties |
+| > onbeperkt)   |                | > Groep (IG):  |     en beheer  |
+|                |                |                |     open delen |
+|                |                | 1.  Volgen van |     met        |
+|                |                |     o          |     community. |
+|                |                | ntwikkelingen. |                |
+|                |                |                | 2.  Deelnemen  |
+|                |                | 2.  Leveren    |     aan        |
+|                |                |     > van      |     stuurgroep |
+|                |                |     > input    |     en         |
+|                |                |     > voor de  |                |
+|                |                |     > do       |    werkgroepen |
+|                |                | orontwikkeling |     van        |
+|                |                |     > van de   |                |
+|                |                |                | >              |
+|                |                |   > standaard. | Kennisplatform |
+|                |                |                | > xxx          |
++----------------+----------------+----------------+----------------+
 
-<table>
-<thead>
-<tr class="header">
-<th><blockquote>
-<p><strong>Gremium</strong></p>
-</blockquote></th>
-<th><blockquote>
-<p><strong>Accent</strong></p>
-</blockquote></th>
-<th><blockquote>
-<p><strong>Rol participant</strong></p>
-</blockquote></th>
-<th><blockquote>
-<p><strong>Ondersteuning door beheerder (Logius)</strong></p>
-</blockquote></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><blockquote>
-<p><strong>xxxTechnisch Overleg</strong> (Operationeel, 4x per jaar)</p>
-</blockquote></td>
-<td><blockquote>
-<p>Inhoud - afstemmen</p>
-</blockquote></td>
-<td><blockquote>
-<p>Samen met andere experts van de Technische Architectuur Groep (TAG):</p>
-</blockquote>
-<ol type="1">
-<li><p>Inhoudelijk ontwikkelen van standaard onderdelen en bijbehorende documentatie.</p></li>
-<li><p>Voorbereiden van de release- planning.</p></li>
-<li><p>Prioriteiten stellen voor de ontwikkeling, roadmap van nieuwe releases van de standaarden.</p></li>
-<li><p>Goedkeuring van aanpassingen op de standaard.</p></li>
-</ol></td>
-<td><ol type="1">
-<li><p>Analyseren, ontwerpen en uitwerken van specificaties.</p></li>
-<li><p>Volgen en beïnvloeden van aanpalende standaarden.</p></li>
-<li><blockquote>
-<p>Organiseren bijeenkomsten.</p>
-</blockquote></li>
-<li><p>Opstellen en verspreiden notulen.</p></li>
-<li><p>Beschikbaar stellen specificaties.</p></li>
-</ol></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p><strong>Tactisch/Strategisch</strong></p>
-<p>(4x per jaar)</p>
-</blockquote></td>
-<td><blockquote>
-<p>Prioritering proces en uitwerken strategisch advies</p>
-</blockquote></td>
-<td><blockquote>
-<p>Samen met andere participanten:</p>
-</blockquote>
-<ol type="1">
-<li><p>Vaststellen roadmap van de standaard.</p></li>
-<li><blockquote>
-<p>Voorportaal OBDO</p>
-</blockquote></li>
-<li><p>Vaststellen minor releases van de standaard.</p></li>
-</ol></td>
-<td><blockquote>
-<p>1. Analyseren, ontwerpen en uitwerken van beleidszaken, (release)planning.</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p><strong>OBDO</strong></p>
-<p>(Strategisch besluitvormend, 2x per jaar)</p>
-</blockquote></td>
-<td><blockquote>
-<p>Bestuurlijk besluit</p>
-</blockquote></td>
-<td><blockquote>
-<p>Samen met andere bestuurders:</p>
-</blockquote>
-<ol type="1">
-<li><p>Vaststellen major releases van de standaard.</p></li>
-<li><p>Vaststellen beheermodel van de standaard.</p></li>
-<li><blockquote>
-<p>Vaststellen externe publicaties over</p>
-</blockquote></li>
-</ol>
-<blockquote>
-<p>het standaardenbeleid en releases.</p>
-</blockquote></td>
-<td><ol type="1">
-<li><p>Begeleiding van de Adviesraad en inbreng via secretariaat OBDO.</p></li>
-<li><p>Publiceren standaarden en andere Standaard-informatie.</p></li>
-</ol></td>
-</tr>
-</tbody>
-</table>
+
++----------------+----------------+----------------+----------------+
+| > **Gremium**  | > **Accent**   | > **Rol        | > *            |
+|                |                | >              | *Ondersteuning |
+|                |                |  participant** | > door         |
+|                |                |                | > beheerder    |
+|                |                |                | > (Logius)**   |
++================+================+================+================+
+| >              | > Inhoud -     | > Samen met    | 1              |
+| **xxxTechnisch | > afstemmen    | > andere       | .  Analyseren, |
+| > Overleg**    |                | > experts van  |     ontwerpen  |
+| >              |                | > de           |     en         |
+| (Operationeel, |                | > Technische   |     uitwerken  |
+| > 4x per jaar) |                | > Architectuur |     van        |
+|                |                | > Groep (TAG): |                |
+|                |                |                | specificaties. |
+|                |                | 1              |                |
+|                |                | .  Inhoudelijk | 2.  Volgen en  |
+|                |                |                |                |
+|                |                |    ontwikkelen |    beïnvloeden |
+|                |                |     van        |     van        |
+|                |                |     standaard  |     aanpalende |
+|                |                |     onderdelen |                |
+|                |                |     en         |   standaarden. |
+|                |                |                |                |
+|                |                |   bijbehorende | 3              |
+|                |                |                | .  Organiseren |
+|                |                |  documentatie. |     >          |
+|                |                |                | bijeenkomsten. |
+|                |                | 2.             |                |
+|                |                |   Voorbereiden | 4.  Opstellen  |
+|                |                |     van de     |     en         |
+|                |                |     release-   |                |
+|                |                |     planning.  |    verspreiden |
+|                |                |                |     notulen.   |
+|                |                | 3.             |                |
+|                |                |   Prioriteiten | 5              |
+|                |                |     stellen    | .  Beschikbaar |
+|                |                |     voor de    |     stellen    |
+|                |                |                |                |
+|                |                |  ontwikkeling, | specificaties. |
+|                |                |     roadmap    |                |
+|                |                |     van nieuwe |                |
+|                |                |     releases   |                |
+|                |                |     van de     |                |
+|                |                |                |                |
+|                |                |   standaarden. |                |
+|                |                |                |                |
+|                |                | 4              |                |
+|                |                | .  Goedkeuring |                |
+|                |                |     van        |                |
+|                |                |                |                |
+|                |                |   aanpassingen |                |
+|                |                |     op de      |                |
+|                |                |     standaard. |                |
++----------------+----------------+----------------+----------------+
+| > **Tactisch   | > Prioritering | > Samen met    | > 1\.          |
+| /Strategisch** | > proces en    | > andere       | > Analyseren,  |
+| >              | > uitwerken    | >              | > ontwerpen en |
+| > (4x per      | > strategisch  | participanten: | > uitwerken    |
+| > jaar)        | > advies       |                | > van          |
+|                |                | 1              | >              |
+|                |                | .  Vaststellen |  beleidszaken, |
+|                |                |     roadmap    | > (rel         |
+|                |                |     van de     | ease)planning. |
+|                |                |     standaard. |                |
+|                |                |                |                |
+|                |                | 2              |                |
+|                |                | .  Voorportaal |                |
+|                |                |     > OBDO     |                |
+|                |                |                |                |
+|                |                | 3              |                |
+|                |                | .  Vaststellen |                |
+|                |                |     minor      |                |
+|                |                |     releases   |                |
+|                |                |     van de     |                |
+|                |                |     standaard. |                |
++----------------+----------------+----------------+----------------+
+| > **OBDO**     | > Bestuurlijk  | > Samen met    | 1              |
+| >              | > besluit      | > andere       | .  Begeleiding |
+| > (Strategisch |                | > bestuurders: |     van de     |
+| > b            |                |                |     Adviesraad |
+| esluitvormend, |                | 1              |     en inbreng |
+| > 2x per jaar) |                | .  Vaststellen |     via        |
+|                |                |     major      |                |
+|                |                |     releases   |   secretariaat |
+|                |                |     van de     |     OBDO.      |
+|                |                |     standaard. |                |
+|                |                |                | 2.  Publiceren |
+|                |                | 2              |                |
+|                |                | .  Vaststellen |    standaarden |
+|                |                |                |     en andere  |
+|                |                |    beheermodel |     Standaa    |
+|                |                |     van de     | rd-informatie. |
+|                |                |     standaard. |                |
+|                |                |                |                |
+|                |                | 3              |                |
+|                |                | .  Vaststellen |                |
+|                |                |     > externe  |                |
+|                |                |                |                |
+|                |                |  > publicaties |                |
+|                |                |     > over     |                |
+|                |                |                |                |
+|                |                | > het          |                |
+|                |                | > sta          |                |
+|                |                | ndaardenbeleid |                |
+|                |                | > en releases. |                |
++----------------+----------------+----------------+----------------+
 
 ### Besluitvorming
 

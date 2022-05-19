@@ -70,67 +70,67 @@
 > Logius, afdeling standaarden onderscheid vier statussen die de xxx
 > standaard kan hebben:
 
-<table>
-<thead>
-<tr class="header">
-<th><blockquote>
-<p><strong>Afkorting</strong></p>
-</blockquote></th>
-<th><blockquote>
-<p><strong>Status van de standaard</strong></p>
-</blockquote></th>
-<th><blockquote>
-<p><strong>Beschrijving van de status</strong></p>
-</blockquote></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><blockquote>
-<p>IO</p>
-</blockquote></td>
-<td><blockquote>
-<p>In Ontwikkeling</p>
-</blockquote></td>
-<td><blockquote>
-<p>Een nieuwe release van de standaard is "In Ontwikkeling" wanneer er met medeweten en medewerking van participanten aan gewerkt wordt en wanneer dit onderdeel of deze release nog niet voor de buitenwereld is gepubliceerd.</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>IG</p>
-</blockquote></td>
-<td><blockquote>
-<p>In Gebruik</p>
-</blockquote></td>
-<td><blockquote>
-<p>Als een nieuwe release van de standaard gereed is, en is bestendigd door Forum Standaardisatie, stelt het Technisch Overleg de status 'In Gebruik' vast. Door deze vaststelling worden gebruikers en ICT-leveranciers opgeroepen deze nieuwe release op te nemen in software en in gebruik te nemen.</p>
-</blockquote></td>
-</tr>
-<tr class="odd">
-<td><blockquote>
-<p>EO</p>
-</blockquote></td>
-<td><blockquote>
-<p>Einde Ondersteuning</p>
-</blockquote></td>
-<td><blockquote>
-<p>De standaardversie met de status "Einde ondersteuning" wordt niet meer ondersteund door de beheerder. De kennis en informatie voor vragen en support is bij de beheerder niet langer beschikbaar.</p>
-</blockquote></td>
-</tr>
-<tr class="even">
-<td><blockquote>
-<p>TG</p>
-</blockquote></td>
-<td><blockquote>
-<p>Teruggetrokken</p>
-</blockquote></td>
-<td><blockquote>
-<p>De standaard krijgt de status "Teruggetrokken" indien een release van de standaard niet bruikbaar blijkt (bijv. vanwege implementatieproblemen).</p>
-</blockquote></td>
-</tr>
-</tbody>
-</table>
+
++-----------------+------------------------+------------------------+
+| > **Afkorting** | > **Status van de      | > **Beschrijving van   |
+|                 | > standaard**          | > de status**          |
++=================+========================+========================+
+| > IO            | > In Ontwikkeling      | > Een nieuwe release   |
+|                 |                        | > van de standaard is  |
+|                 |                        | > \"In Ontwikkeling\"  |
+|                 |                        | > wanneer er met       |
+|                 |                        | > medeweten en         |
+|                 |                        | > medewerking van      |
+|                 |                        | > participanten aan    |
+|                 |                        | > gewerkt wordt en     |
+|                 |                        | > wanneer dit          |
+|                 |                        | > onderdeel of deze    |
+|                 |                        | > release nog niet     |
+|                 |                        | > voor de buitenwereld |
+|                 |                        | > is gepubliceerd.     |
++-----------------+------------------------+------------------------+
+| > IG            | > In Gebruik           | > Als een nieuwe       |
+|                 |                        | > release van de       |
+|                 |                        | > standaard gereed is, |
+|                 |                        | > en is bestendigd     |
+|                 |                        | > door Forum           |
+|                 |                        | > Standaardisatie,     |
+|                 |                        | > stelt het Technisch  |
+|                 |                        | > Overleg de status    |
+|                 |                        | > \'In Gebruik\' vast. |
+|                 |                        | > Door deze            |
+|                 |                        | > vaststelling worden  |
+|                 |                        | > gebruikers en        |
+|                 |                        | > ICT-leveranciers     |
+|                 |                        | > opgeroepen deze      |
+|                 |                        | > nieuwe release op te |
+|                 |                        | > nemen in software en |
+|                 |                        | > in gebruik te nemen. |
++-----------------+------------------------+------------------------+
+| > EO            | > Einde Ondersteuning  | > De standaardversie   |
+|                 |                        | > met de status        |
+|                 |                        | > \"Einde              |
+|                 |                        | > ondersteuning\"      |
+|                 |                        | > wordt niet meer      |
+|                 |                        | > ondersteund door de  |
+|                 |                        | > beheerder. De kennis |
+|                 |                        | > en informatie voor   |
+|                 |                        | > vragen en support is |
+|                 |                        | > bij de beheerder     |
+|                 |                        | > niet langer          |
+|                 |                        | > beschikbaar.         |
++-----------------+------------------------+------------------------+
+| > TG            | > Teruggetrokken       | > De standaard krijgt  |
+|                 |                        | > de status            |
+|                 |                        | > \"Teruggetrokken\"   |
+|                 |                        | > indien een release   |
+|                 |                        | > van de standaard     |
+|                 |                        | > niet bruikbaar       |
+|                 |                        | > blijkt (bijv.        |
+|                 |                        | > vanwege              |
+|                 |                        | > im                   |
+|                 |                        | plementatieproblemen). |
++-----------------+------------------------+------------------------+
 
 ## Documentatie
 
