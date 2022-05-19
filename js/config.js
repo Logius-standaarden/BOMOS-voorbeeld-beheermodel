@@ -24,36 +24,36 @@ var respecConfig = {
   // BP: "Best Practice"
   specType: "HR",
 
-  // subtitle will be shown below title, can be omitted 
+  // subtitle will be shown below title, can be omitted
   // subtitle: "Hier komt een subtitle",
 
 
-  // A YYYY-MM-DD date. The publication date of the present document. 
+  // A YYYY-MM-DD date. The publication date of the present document.
   // Als er geen publishDate is opgegeven, genereert ReSpec de dataum o.b.v. de laatste wijzigingen
   // Belangrijk: als publishDate niet opgegeven is, wordt bij de link "Laatst gepubliceerde versie" "geen" gezet. Anders wordt een link opgebouwd voor de laatste versie, met het formaat:
-  publishDate: "2021-01-01",
+  publishDate: "2022-06-01",
 
   // A YYYY-MM-DD date. When there is a previous release of a given specification, (W3C)
   previousPublishDate: "2020-12-31",
 
   // The actual version preferably in SEMVER notation
-  // for Logius specifications this field is required: if this parameters exists, this value will be used as directoryname  
+  // for Logius specifications this field is required: if this parameters exists, this value will be used as directoryname
   // currently, the 'this version' url will only point to the [publication server] if specStatus is "DEF"
-  // otherwise it will refer to the the github.io environment   
+  // otherwise it will refer to the the github.io environment
   // (if this parameter does not exist the publisDate will be used.)
-  publishVersion: "2.8",
+  publishVersion: "1.0",
 
   // The previous version preferably in SEMVER notation
-  // for Logius specifications this field is optional: if this parameters exists this value will be used as directory name  
+  // for Logius specifications this field is optional: if this parameters exists this value will be used as directory name
   // (if this parameter does not exist the previousPublisDate will be used, which may lead to an incorrect url .)
-  previousPublishVersion: "1.6.5",
+  previousPublishVersion: "0.1",
 
   // The specification's publish domain, which is used to publish the specification
   // the url in the header thisVersion is generated like `<conf.nl_organisationPublishURL>/<conf.pubDomain>/<conf.shortName>/`
-  pubDomain: "dk",
+  pubDomain: "bomos",
 
   // The specification's "short name", is used in NL_Respec URLs in the following way: `<conf.nl_organisationPublishURL>/<conf.pubDomain>/<conf.shortName>/`
-  shortName: "ebms",
+  shortName: "template",
 
   // Based on the example settings Respec will generate the following links in the header:
   // https://publicatie.centrumvoorstandaarden.nl/dk/ebms/
@@ -69,7 +69,7 @@ var respecConfig = {
 
   // Overrides the standard logo with one or more other logos. (see https://respec.org/docs/#logos)
   // Geef een lege array op als er geen <default> logo moet staan
-  // logos: [], 
+  // logos: [],
 
   //Adds a JSON-LD script element containing schema.org information, which can be useful for search engines.
   doJsonLd: true,
@@ -77,12 +77,12 @@ var respecConfig = {
   // An array of person objects describing the editors of the document
   // this can be simple or more elaborated
   editors: [{
-    name: "Peter Haasnoot",
+    name: "Gül Işik",
     url: "https://logius.nl/standaarden",
     company: "Logius",
   },
   {
-    name: "Pieter Hering",
+    name: "Edwin Wisse",
     url: "https://logius.nl/standaarden",
     company: "Logius",
   }
@@ -92,11 +92,11 @@ var respecConfig = {
   authors: [{
     name: "Logius",
     url: "https://logius.nl/standaarden",
-    mailto: "digikoppeling@logius.nl",
+    mailto: "bomos@logius.nl",
   }
   ],
   // The github option allows you associate your specification with a repository on GitHub.
-  github: "https://github.com/Logius-standaarden/Template-Repository",
+  github: "https://github.com/Logius-standaarden/BOMOS-voorbeeld-beheermodel",
 
   // The URL of your test suite, gets included in the specification's headers.
   // testSuiteURI: "https://portaal.digikoppeling.nl/CV/home.html",
@@ -131,7 +131,7 @@ var respecConfig = {
   nl_addReleaseTagTitle: false,
 
   // For Consultatieversies (specStatus="GN-CV") the generated text in the section "Status of this document" contains an emailaddress for feedback and comments on the document.
-  nl_emailComments: "digikoppeling@logius.nl",
+  nl_emailComments: "bomos@logius.nl",
 
   // if you use a single document for your spec, which uses more than one markdown H1 header, e.g. '# inleiding'
   // this configuration can be set to make sure that the all H1 headers and navigation bars are retained as H1 headers
@@ -139,19 +139,19 @@ var respecConfig = {
 
   // in some cases the Repository of a Specification document and the Issue- and PR bases are split
   // thi scan be configured below
-  // if not set, the url's will be generated on the respecConfig.github automatically  
+  // if not set, the url's will be generated on the respecConfig.github automatically
   nl_github: {
-    issueBase: "https://github.com/Logius-standaarden/Template-Repository/issues",
-    revision: "https://github.com/Logius-standaarden/Template-Repository/commits",
-    pullrequests: "https://github.com/Logius-standaarden/Logius-standaarden/Template-Repository/pulls"
+    issueBase: "https://github.com/Logius-standaarden/BOMOS-voorbeeld-beheermodel/issues",
+    revision: "https://github.com/Logius-standaarden/BOMOS-voorbeeld-beheermodel/commits",
+    pullrequests: "https://github.com/Logius-standaarden/Logius-standaarden/BOMOS-voorbeeld-beheermodel/pulls"
   },
 
   // nl_organisationName is used for some company specific values in the header (and Sotd)
-  // currently supported: Logius and Geonovum (default)  
+  // currently supported: Logius and Geonovum (default)
   nl_organisationName: "Logius",
 
   // prefix for the names of company specific css, svg and ico prefixes
-  // defaults to "GN-"  
+  // defaults to "GN-"
   nl_organisationPrefix: "LS-",
 
   // class style can be automatically inserted in generated markdown tables
@@ -160,7 +160,7 @@ var respecConfig = {
   nl_markdownTableClass: "dkkvs",
 
   // class style can be automatically inserted in generated markdown code (e.g. `example`)
-  // when set the style css can refer to this class 
+  // when set the style css can refer to this class
   nl_markdownCodeClass: "code",
 
   // if nl_markdownEmbedImageInFigure is set to true images in markdown generated content will be surrounded with <figures> element
@@ -187,7 +187,7 @@ var respecConfig = {
     url: "https://www.logius.nl/standaarden",
   },
 
-  // If you need to include a one-off reference that is not present in the SpecRef database or 
+  // If you need to include a one-off reference that is not present in the SpecRef database or
   // if you need to override an existing reference with specific content, then you can use this configuration option.
   localBiblio: {
     NEN3610: {
