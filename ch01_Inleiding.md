@@ -10,9 +10,7 @@
 
 Beschrijf hier de standaard
 
-Voorbeeld:
-
-<pre class="example">
+<aside class="example">
 De xxx standaard omvat een set van normatieve ontwerpafspraken voor
 het structureren en documenteren. De standaard heeft tot doel om
 betere, uniforme en ontwikkelaar vriendelijke API’s te ontwikkelen die
@@ -27,84 +25,64 @@ opgenomen [<span class="underline">zie link</span>](https://www.forumstandaardi
 van de standaard zijn reeds goed beschreven door het Forum
 Standaardisatie en voor de eenduidigheid hieronder integraal opgenomen
 [<span class="underline">zie link</span>](https://www.forumstandaardisatie.nl/open-standaarden/rest-api-design-rules):
-</pre>
+</aside>
 
 ### Nut
 
-> Beschrijf hier de nut van de standaard
->
-> Voorbeeld:
->
-> De overheid ontsluit gegevens en applicaties steeds vaker met
-> standaarden. Voorbeelden hiervan zijn te zien op de website
-> developer.overheid.nl, in Common Ground, Haal Centraal en het Digitaal
-> Stelsel Omgevingswet.
->
-> Representational state transfer (REST) is een ontwerpprincipe dat
-> wereldwijd veel gebruikt wordt voor het bouwen van
-> programmeerinterfaces over het web (API's). REST is geen standaard
-> maar een ontwerpprincipe, en laat nog veel vrijheid in het
-> structureren van API's.
->
-> De standaard REST-API Design Rules geeft een verzameling basisregels
-> voor structuur en naamgeving waarmee de overheid op een uniforme en
-> eenduidige manier REST-API's aanbiedt. Dit maakt het voor
-> ontwikkelaars gemakkelijker om betrouwbare applicaties met te
-> ontwikkelen met API's van de overheid. Bron: Forum standaardisatie
+Beschrijf hier de nut van de standaard
+
+<aside class="example">
+De overheid ontsluit gegevens en applicaties steeds vaker met
+standaarden. Voorbeelden hiervan zijn te zien op de website
+developer.overheid.nl, in Common Ground, Haal Centraal en het Digitaal
+Stelsel Omgevingswet.
+
+Representational state transfer (REST) is een ontwerpprincipe dat
+wereldwijd veel gebruikt wordt voor het bouwen van
+programmeerinterfaces over het web (API's). REST is geen standaard
+maar een ontwerpprincipe, en laat nog veel vrijheid in het
+structureren van API's.
+
+De standaard REST-API Design Rules geeft een verzameling basisregels
+voor structuur en naamgeving waarmee de overheid op een uniforme en
+eenduidige manier REST-API's aanbiedt. Dit maakt het voor
+ontwikkelaars gemakkelijker om betrouwbare applicaties met te
+ontwikkelen met API's van de overheid. Bron: Forum standaardisatie
+</aside>
 
 ### Werking
 
-> Beschrijf hier de werking van de standaard
+Beschrijf hier de werking van de standaard
 
-Voorbeeld:
+<aside class="example">
+Een application programming interface (API) is een gestructureerd en
+gedocumenteerd koppelvlak voor communicatie tussen applicaties. Zo
+lang er computers zijn, bestaan er API's en worden er verschillende
+API technologieën gebruikt. In de laatste 10 jaar heeft
+Representational state transfer (REST) zich ontwikkeld tot een
+bepalend principe voor het realiseren van API's. Zogenaamde
+‘REST-API's’ doen voor applicaties wat websites voor mensen doen.
+Websites presenteren informatie aan mensen, REST-API's maken
+applicaties en gegevens over het Internet beschikbaar voor andere
+applicaties. De technologie achter websites en REST-API's heeft daarom
+veel gemeen.
 
-> Een application programming interface (API) is een gestructureerd en
-> gedocumenteerd koppelvlak voor communicatie tussen applicaties. Zo
-> lang er computers zijn, bestaan er API's en worden er verschillende
-> API technologieën gebruikt. In de laatste 10 jaar heeft
-> Representational state transfer (REST) zich ontwikkeld tot een
-> bepalend principe voor het realiseren van API's. Zogenaamde
-> ‘REST-API's’ doen voor applicaties wat websites voor mensen doen.
-> Websites presenteren informatie aan mensen, REST-API's maken
-> applicaties en gegevens over het Internet beschikbaar voor andere
-> applicaties. De technologie achter websites en REST-API's heeft daarom
-> veel gemeen.
->
-> De overheid gebruikt REST-API's voor koppelingen met andere overheden,
-> bedrijven en indirect ook met burgers, bijvoorbeeld via mobiele apps
-> en webapps die aangeboden worden door bedrijven of overheden zelf.
-> Ontwikkelaars kunnen deze REST-API's bevragen vanuit de gangbare
-> programmeertalen en frameworks zoals Python, Java, Microsoft C\#, PHP.
-
-<span class="underline">[Bron: Forum
-standaardisati](https://www.forumstandaardisatie.nl/open-standaarden/rest-api-design-rules)e</span>
+De overheid gebruikt REST-API's voor koppelingen met andere overheden,
+bedrijven en indirect ook met burgers, bijvoorbeeld via mobiele apps
+en webapps die aangeboden worden door bedrijven of overheden zelf.
+Ontwikkelaars kunnen deze REST-API's bevragen vanuit de gangbare
+programmeertalen en frameworks zoals Python, Java, Microsoft C\#, PHP.
+</aside>
 
 ### Status
 
-> Beschrijf hier de status van de standaard
->
-> Voorbeeld:
->
-> De actuele versie van de ADR-standaard is 1.0. Deze versie is op
-> 09-07-2020 door het OBDO vastgesteld op advies van het Forum
-> Standaardisatie.
->
-> De status van de ADR-standaard is ‘Verplicht (pas toe leg uit)’. Dit
-> houdt kort gezegd in dat Nederlandse overheden en instellingen uit de
-> (semi) publieke sector verplicht zijn deze standaard toe te passen op
-> het moment dat zij REST API’s gaan gebruiken voor het ontsluiten van
-> overheidsinformatie en/of functionaliteit. (Zie voor meer informatie
-> over het [<span class="underline">pas toe of leg uit
-> beleid</span>.](https://www.forumstandaardisatie.nl/node/229))
+Beschrijf hier de status van de standaard
 
-Voorbeeld:
-
-> De verplichting is gepubliceerd door het Forum Standaardisatie op:
->
-> [<span class="underline">forumstandaardisatie.nl/open-standaarden/rest-api-design-rules</span>](https://www.forumstandaardisatie.nl/open-standaarden/rest-api-design-rules)
-> Versie 1.0 van de xxx is gepubliceerd op:
->
-> [<span class="underline">publicatie.centrumvoorstandaarden.nl/api/adr/1.0</span>](https://publicatie.centrumvoorstandaarden.nl/api/adr/1.0)
+<aside class="example">
+De actuele versie van de ADR-standaard is 1.0. Deze versie is op
+09-07-2020 door het OBDO vastgesteld op advies van het Forum
+Standaardisatie.
+</aside>
 
 ## BOMOS
 
@@ -116,9 +94,9 @@ Voorbeeld:
 
 ![](./media/image1.png)
 
-> *Figuur 1 Bomos model*
->
-> ![](./media/image5.png)Voor meer informatie over BOMOS zie ook:
+*Figuur 1 Bomos model*
+
+![](./media/image5.png)Voor meer informatie over BOMOS zie ook:
 
 [<span class="underline">BOMOS, het
 fundament</span>](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/)
@@ -128,10 +106,10 @@ verdieping</span>](https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping
 
 [<span class="underline">'Publicatie-BOMOS-2i.pdf'</span>](https://www.forumstandaardisatie.nl/sites/default/files/BFS/4-basisinformatie/publicaties/Publicatie-BOMOS-2i.pdf)
 
-> BOMOS onderscheidt verschillende levenscyclusfases waarin een
-> standaard zich kan bevinden. Deze fase bepaalt mede op welke
-> beheeronderdelen meer of minder wordt ingezet. De verschillende fases
-> zijn:
+BOMOS onderscheidt verschillende levenscyclusfases waarin een
+standaard zich kan bevinden. Deze fase bepaalt mede op welke
+beheeronderdelen meer of minder wordt ingezet. De verschillende fases
+zijn:
 
 1.  Creatie/ontwikkeling
 2.  Introductie
@@ -139,26 +117,26 @@ verdieping</span>](https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping
 4.  Volwaardige toepassing
 5.  Uitfaseren
 
-> ![](./media/image7.png)![](./media/image8.png)Adoptie
+![](./media/image7.png)![](./media/image8.png)Adoptie
 
 ![](./media/image10.png)
 
-> Tijd
->
-> *Figuur 2 Bomos levenscyclus*
->
-> De xxx bevindt zich in de xxx fase. De eerste versie van de standaard
-> is xxx aangemeld bij het Forum Standaardisatie en op xxx op de lijst
-> van verplichte standaarden opgenomen. Vanuit het xxx en Logius
-> afdeling Standaarden wordt momenteel nog volop aan de xxx gewerkt en
-> de verwachting is dat de standaard nog de nodige ontwikkelingen door
-> gaat maken.
->
-> Daarom is er komende tijd vooral aandacht voor:
->
-> Het in de praktijk bestendigen van het beheer van de standaard;
-> Gestaag doorontwikkeling van de specificaties zelf;
->
-> Bouwen en aanbieden ondersteunende tooling; Groei in het aantal
-> toepassingen van de standaard; Monitoring van het gebruik van de
-> standaard; Groei van de community rond de standaard.
+Tijd
+
+*Figuur 2 Bomos levenscyclus*
+
+De xxx bevindt zich in de xxx fase. De eerste versie van de standaard
+is xxx aangemeld bij het Forum Standaardisatie en op xxx op de lijst
+van verplichte standaarden opgenomen. Vanuit het xxx en Logius
+afdeling Standaarden wordt momenteel nog volop aan de xxx gewerkt en
+de verwachting is dat de standaard nog de nodige ontwikkelingen door
+gaat maken.
+
+Daarom is er komende tijd vooral aandacht voor:
+
+Het in de praktijk bestendigen van het beheer van de standaard;
+Gestaag doorontwikkeling van de specificaties zelf;
+
+Bouwen en aanbieden ondersteunende tooling; Groei in het aantal
+toepassingen van de standaard; Monitoring van het gebruik van de
+standaard; Groei van de community rond de standaard.
