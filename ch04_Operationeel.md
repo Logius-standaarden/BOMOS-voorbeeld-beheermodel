@@ -20,50 +20,49 @@
 2.  Bij de werkgroep xxx van de standaard en tijdens overleggen, via de
     website of mail
 
-> RFC's worden als issue's geregistreerd in de repository van het
-> kennisplatform/community op Github: voorbeeld:
-> <https://github.com/Geonovum/KP-APIs/issues>
->
-> Om te voorkomen dat er verschillende lijsten met issues en verzoeken
-> ontstaan, is met het kennisplatform/community afgesproken dat ieder
-> issue en verzoek als eerste wordt beoordeeld door de werkgroep van xxx
-> standaard. Dit voorkomt het ontstaan van verschillende stromen met
-> RFC's en geeft de werkgroep de gelegenheid om in te schatten of de RFC
-> betrekking heeft op de xxx standaard die Logius beheert, of dat er
-> sprake is van een verzoek dat het best kan landen in één van de (niet
-> normatieve) extensies die het kennisplatform/community beheert.
->
-> Dit houdt concreet in dat RFC's die rechtstreeks bij Logius worden
-> neergelegd, door Logius worden doorgespeeld aan de werkgroep van de
-> xxx standaard zodat daar de eerste beoordeling kan plaatsvinden.
->
-> ![](./media/image11.png)*Figuur 3 ADR RFC Procesmodel*
+<aside class="example">
+RFC's worden als issue's geregistreerd in de repository van het
+kennisplatform/community op Github: voorbeeld:
+<https://github.com/Geonovum/KP-APIs/issues>
+
+Om te voorkomen dat er verschillende lijsten met issues en verzoeken
+ontstaan, is met het kennisplatform/community afgesproken dat ieder
+issue en verzoek als eerste wordt beoordeeld door de werkgroep van xxx
+standaard. Dit voorkomt het ontstaan van verschillende stromen met
+RFC's en geeft de werkgroep de gelegenheid om in te schatten of de RFC
+betrekking heeft op de xxx standaard die Logius beheert, of dat er
+sprake is van een verzoek dat het best kan landen in één van de (niet
+normatieve) extensies die het kennisplatform/community beheert.
+
+Dit houdt concreet in dat RFC's die rechtstreeks bij Logius worden
+neergelegd, door Logius worden doorgespeeld aan de werkgroep van de
+xxx standaard zodat daar de eerste beoordeling kan plaatsvinden.
+
+![](./media/image11.png)*Figuur 3 ADR RFC Procesmodel*
+</aside>
 
 ## Uitvoering en ontwikkeling (Wijzigingsproces)
 
-> De procedure van RCF naar daadwerkelijke wijziging ziet er als volgt
-> uit:
->
-> Issues die in behandeling worden genomen worden als RFC gelabeld RFC's
-> worden besproken en uitgewerkt in de Werkgroep xxx
->
-> RFC's worden vastgesteld in Technisch Overleg (TO) RFC worden na
-> vaststelling in het TO Openbaar geconsulteerd
->
-> Na vaststelling volgt publicatie van de nieuwe versie van standaard
->
-> N.B. Zolang de afdeling Standaarden van Logius nog geen predicaat
-> "Uitstekend beheer" heeft ontvangen van Forum Standaardisatie, zullen
-> nieuwe versies na vaststelling in het TO aan Forum Standaardisatie
-> worden voorgelegd ter beoordeling.
->
-> N.B.2. Het technisch overleg is momenteel samengevoegd met het
-> structurele overleg van de werkgroep ADR van het Kennisplatform
->
-> Dit is schematisch weergegeven in het onderstaande ADR Governance
-> model:
->
-> *Figuur 4 ADR Governance model*
+<aside class="example">
+De procedure van RCF naar daadwerkelijke wijziging ziet er als volgt
+uit:
+
+Issues die in behandeling worden genomen worden als RFC gelabeld RFC's
+worden besproken en uitgewerkt in de Werkgroep xxx
+
+RFC's worden vastgesteld in Technisch Overleg (TO) RFC worden na
+vaststelling in het TO Openbaar geconsulteerd
+
+Na vaststelling volgt publicatie van de nieuwe versie van standaard
+
+N.B. Zolang de afdeling Standaarden van Logius nog geen predicaat
+"Uitstekend beheer" heeft ontvangen van Forum Standaardisatie, zullen
+nieuwe versies na vaststelling in het TO aan Forum Standaardisatie
+worden voorgelegd ter beoordeling.
+
+N.B.2. Het technisch overleg is momenteel samengevoegd met het
+structurele overleg van de werkgroep ADR van het Kennisplatform
+</aside>
 
 ## Status van de standaard
 
@@ -80,22 +79,18 @@
 
 ## Documentatie
 
-> Alle documenten m.b.t. de standaard en het beheer van de standaard
-> worden openbaar en zonder drempels voor gebruik, gepubliceerd op
-> logius.nl en onze Github pagina's. Logius publiceert tenminste de
-> volgende documenten:
->
-> Dit beheermodel
->
-> De vergaderstukken van het Technisch overleg en overige
-> besluitvormende gremia.
->
-> De specificaties van de standaard
->
-> De voorlopige specificaties van de nieuwe versie van de standaard.
->
-> Versie xx van de xx is gepubliceerd op:
->
-> voorbeeld:
-> [<span class="underline">https://publicatie.centrumvoorstandaarden.nl/api/adr/1.0</span>](https://publicatie.centrumvoorstandaarden.nl/api/adr/1.0)
-> De
+<aside class="example">
+Alle documenten m.b.t. de standaard en het beheer van de standaard
+worden openbaar en zonder drempels voor gebruik, gepubliceerd op
+logius.nl en onze Github pagina's. Logius publiceert tenminste de
+volgende documenten:
+
+De vergaderstukken van het Technisch overleg en overige
+besluitvormende gremia.
+
+De specificaties van de standaard
+
+De voorlopige specificaties van de nieuwe versie van de standaard.
+
+Versie xx van de xx is gepubliceerd op:
+</aside>
