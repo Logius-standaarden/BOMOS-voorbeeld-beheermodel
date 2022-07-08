@@ -15,7 +15,7 @@
 
 > RFC's kunnen binnen komen via verschillende kanalen:
 
-1.  Rechtstreeks bij Logius, tijdens overleggen, via de website of mail
+1.  Rechtstreeks bij de beheerorganisatie, tijdens overleggen, via de website of mail
 
 2.  Bij de werkgroep xxx van de standaard en tijdens overleggen, via de
     website of mail
