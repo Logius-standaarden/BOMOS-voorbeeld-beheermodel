@@ -1,4 +1,6 @@
-var respecConfig = {
+import { loadRespecWithConfiguration } from "https://logius-standaarden.github.io/publicatie/respec/organisation-config.mjs";
+
+loadRespecWithConfiguration({
   authors: [ { 
         "mailto" : "bomos@logius.nl",
         "name" : "Logius",
@@ -27,4 +29,4 @@ var respecConfig = {
   shortName: "template",
   specStatus: "WV",
   specType: "HR"
-};
+});
