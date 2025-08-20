@@ -4,7 +4,6 @@ loadRespecWithConfiguration({
   authors: [ { 
         "mailto" : "bomos@logius.nl",
         "name" : "Logius",
-        "url" : "https://logius.nl/standaarden"
       } ],
   editors: [ 
       { 
@@ -26,6 +25,9 @@ loadRespecWithConfiguration({
   pubDomain: "bomos",
   publishDate: "2022-06-01",
   publishVersion: "1.0",
+  // TODO: verwijder voor publicatie
+  latestVersion: "https://logius-standaarden.github.io/BOMOS-voorbeeld-beheermodel/",
+  prevVersion: [],
   shortName: "template",
   specStatus: "WV",
   specType: "HR"
