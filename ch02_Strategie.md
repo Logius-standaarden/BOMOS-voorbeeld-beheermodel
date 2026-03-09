@@ -139,7 +139,7 @@ besluitvormingsproces:
 > *[Ad 3) Het OBDO kent een vaste vertegenwoordiging
 > .<span class="underline">Zie voor meer informatie de governance
 > van</span> <span class="underline">Digitaleoverheid.nl
-> </span>](https://www.digitaleoverheid.nl/governance-digitale-overheid/)*
+> </span>](https://www.digitaleoverheid.nl/mido/governance/)*
 >
 > *Ad 4) Aangezien het overleg van de Technische Architectuur Groep (het
 > Technisch Overleg) het eerste besluitvormende gremium is van de
