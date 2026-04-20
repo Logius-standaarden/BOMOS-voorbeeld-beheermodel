@@ -3,7 +3,7 @@ import { loadRespecWithConfiguration } from "https://logius-standaarden.github.i
 loadRespecWithConfiguration({
   authors: [ { 
         "company" : "Logius",
-        "name" : "Gül Işik",
+        "name" : "Edwin Wisse",
         "url" : "https://www.logius.nl"
       } ],
   editors: [ 
